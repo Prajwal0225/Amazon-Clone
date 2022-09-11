@@ -1,0 +1,52 @@
+
+.flex-container {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    background-color:#2C3333;
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-bottom: 100px;
+    padding-top: 50px;
+  }
+  
+  .backtotop{
+    font-size:25px;
+    text-align:center;
+    background-color:#606470;
+    color:white;
+     font-family: 'Roboto Condensed', sans-serif;
+    padding:10px 0 10px 0;
+    cursor: pointer;
+  }
+  
+  .backtotop:hover{
+    opacity:0.7;
+  }
+  
+  .subheading{
+    font-size:17px;
+    padding-top: 10px;
+    padding-bottom: 13px;
+  }
+  .sublist{
+    font-size:13px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+  
+  .sublist:hover{
+    text-decoration:underline;
+    cursor:pointer;
+  }
+  
+  .copyright{
+   background: #33425B;
+    color:white;
+    text-align:center;
+     font-family: 'Roboto Condensed', sans-serif;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:13px;
+    
+  }
